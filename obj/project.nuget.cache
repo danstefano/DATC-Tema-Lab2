@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mmpinV4NIqCfwmpQEXV8kOqZztCxCrTIsNOfXPZOpfd5N4iHHuOncGwq/E/cO3s2Gx+SEZ10KG+b6Xj5hKVvNQ==",
+  "success": true,
+  "projectFilePath": "D:\\!! IS\\An IV S1\\Dezvoltarea aplicatiilor de tip Cloud\\Lab2 Tema\\Lab2 Tema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geo1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\geo1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\geo1\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\geo1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\geo1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\geo1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\appsettings.Development.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\appsettings.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Lab2 Tema.exe
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Lab2 Tema.deps.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Lab2 Tema.runtimeconfig.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Lab2 Tema.runtimeconfig.dev.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Lab2 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\ref\Lab2 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Lab2 Tema.pdb
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.csproj.AssemblyReference.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.GeneratedMSBuildEditorConfig.editorconfig
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.AssemblyInfoInputs.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.AssemblyInfo.cs
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.csproj.CoreCompileInputs.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.MvcApplicationPartsAssemblyInfo.cs
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.MvcApplicationPartsAssemblyInfo.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\staticwebassets\Lab2 Tema.StaticWebAssets.Manifest.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\staticwebassets\Lab2 Tema.StaticWebAssets.xml
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\scopedcss\bundle\Lab2 Tema.styles.css
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.RazorTargetAssemblyInfo.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.csproj.CopyComplete
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\ref\Lab2 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.pdb
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab2 Tema\obj\Debug\net5.0\Lab2 Tema.genruntimeconfig.cache
